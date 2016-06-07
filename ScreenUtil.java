@@ -12,7 +12,7 @@ import android.view.WindowManager;
 public class ScreenUtil {
 
     /**
-     * 获取屏幕相关参数
+     * 获取屏幕相关参数,..
      * @param context context
      * @return DisplayMetrics 屏幕宽高
      * */
